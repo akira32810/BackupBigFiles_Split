@@ -1,0 +1,10 @@
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\bin\Release\netcoreapp2.1\BackupBigFilesData.deps.json
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\bin\Release\netcoreapp2.1\BackupBigFilesData.runtimeconfig.json
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\bin\Release\netcoreapp2.1\BackupBigFilesData.runtimeconfig.dev.json
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\bin\Release\netcoreapp2.1\BackupBigFilesData.dll
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\bin\Release\netcoreapp2.1\BackupBigFilesData.pdb
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\obj\Release\netcoreapp2.1\BackupBigFilesData.csproj.CoreCompileInputs.cache
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\obj\Release\netcoreapp2.1\BackupBigFilesData.AssemblyInfoInputs.cache
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\obj\Release\netcoreapp2.1\BackupBigFilesData.AssemblyInfo.cs
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\obj\Release\netcoreapp2.1\BackupBigFilesData.dll
+C:\StrivetechiesProjects\BackupBigFilesData\BackupBigFilesData\obj\Release\netcoreapp2.1\BackupBigFilesData.pdb
