@@ -12,7 +12,7 @@ namespace BackupBigFilesData
         {
             //chunksize in megabytes
             var fileStatusCopyAt = string.Empty;
-            var inputPositionLengh = string.Empty; ;
+            var inputPositionLengh = string.Empty;
             var backupLog = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "backupLog.log");
             //get all files in folder
             try
