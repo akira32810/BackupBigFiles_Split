@@ -7,5 +7,5 @@ Assumming you have a cloud service setup as a location in your machine, just put
 Logs will be create at the end of each run and append to the same log file.
 
 <hr/>
-Prerequisite: dotnetcore 2.1+
+Prerequisite: dotnetcore 2.1+ </br>
 Compatible with Windows, Linux and OSx
